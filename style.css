@@ -1,0 +1,14 @@
+<style>
+        .text{ 
+            color: red;
+            background-color: black;
+        }
+        .bg-yellowgreen{
+            background-color:yellowgreen;
+            color: white;
+        }
+        .bg-orange{
+            background-color: orange;
+            color: blue;
+        }
+    </style>
